@@ -146,5 +146,4 @@ After you configure the Kibana dashboard, you can search on Logs for any data co
  ----------
 Your valuable feedback is highly appreciated.
 
-D:\mancala-game\mancala-microservice>mvn clean install
 
